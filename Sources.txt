@@ -1,0 +1,6 @@
+PlayerContracts.csv
+	https://www.basketball-reference.com/contracts/players.html
+	Obtained 14:08 07/28/2017
+	File editted to remove Ranking and '$' characters
+
+	https://www.basketball-reference.com/leagues/NBA_2017_advanced.html
